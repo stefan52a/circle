@@ -30,3 +30,13 @@ Problem: Technology can be limited:
 So trust your Circle:
 Privacy and Take Care & 
                     Give Care
+
+
+https://github.com/DP-3T
+https://ncase.me/contact-tracing/
+e.g. https://gitlab.com/PrivateTracer for phase 1
+Opinion about Google Apple solution: 
+https://medium.com/asecuritysite-when-bob-met-alice/contact-tracing-the-most-amazing-and-scariest-technology-of-the-21st-century-9fb86d7869e5
+https://medium.com/asecuritysite-when-bob-met-alice/the-flawed-world-of-contact-tracing-wheres-carol-the-tester-3939ac92488a
+
+
