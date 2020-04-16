@@ -14,9 +14,12 @@ https://fd.nl/ondernemen/1341169/corona-app-dreigt-te-mislukken-door-haast-kabin
 
 ![alt text](https://github.com/stefan52a/circle/blob/master/circle.gif)
 
-Problem: Technology can be limited:
 
-    Technology based solely upon DP3T (PEPP-PT) , although we can implement it pretty fast, conceptually has its limits, i.e. the social support is missing, maybe good for phase 1;
+
+
+
+PProblem: Technology can be limited:
+Technology based solely upon DP3T (PEPP-PT) , although we can implement it pretty fast, conceptually has its limits, i.e. the social support is missing, maybe good for phase 1;
     Most software known has other limits, either
         is not Open Source;
         does not have Privacy by Design;​
@@ -32,6 +35,8 @@ Problem: Technology can be limited:
         /People do not trust private companies to look after their data.
 
 So trust your Circle:
+
+
 Privacy and Take Care & 
                     Give Care
 
