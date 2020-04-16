@@ -18,7 +18,7 @@ https://fd.nl/ondernemen/1341169/corona-app-dreigt-te-mislukken-door-haast-kabin
 
 
 
-There is a **problem** with technology being limited:
+There is a **problem** that technology is limited:
 
 Technology based solely upon [DP3T](https://github.com/DP-3T) (PEPP-PT) , although we can [implement](https://gitlab.com/PrivateTracer) it pretty fast, conceptually has its limits, i.e. the social support is missing, maybe good for a first phase;
 
