@@ -14,24 +14,44 @@ https://fd.nl/ondernemen/1341169/corona-app-dreigt-te-mislukken-door-haast-kabin
 
 ![alt text](https://github.com/stefan52a/circle/blob/master/circle.gif)
 
-Problem: Technology can be limited:
 
-    Technology based solely upon DP3T (PEPP-PT) , although we can implement it pretty fast, conceptually has its limits, i.e. the social support is missing, maybe good for phase 1;
+
+
+
+PProblem: Technology can be limited:
+
+Technology based solely upon DP3T (PEPP-PT) , although we can implement it pretty fast, conceptually has its limits, i.e. the social support is missing, maybe good for phase 1;
+
     Most software known has other limits, either
+    
         is not Open Source;
-        does not have Privacy by Design;​
+        
+        does not have Privacy by Design;
+        
         does not have highly Decentralized Storage;
+        
         is not Inclusive or Optional
+        
     Technology based upon only Android or only iOS has its limits;
+    
     Ethical, Social, Fundamental Rights, Legal, Governance etc. limits;
+    
     Technology based upon Apple/Google only, has its limits:
-        Contact Tracing is The Most Amazing And Scariest Technology of The 21st Century! We get this wrong, we are in big trouble .. for our health, our economy, and for our privacy! Please support and build things that help us recovery, but which protect fundamental rights.​
+    
+        Contact Tracing is The Most Amazing And Scariest Technology of The 21st Century! We get this wrong, we are in big trouble .. for our health, our economy, and for our privacy! Please support and build things that help us recovery, but which protect fundamental rights.
+        
         I state three things I’ve learnt from working in health care:
+        
         /People trust their doctor to look after their data.
+        
         /People do not nescessary trust the government to look after their data.
+        
         /People do not trust private companies to look after their data.
 
+
 So trust your Circle:
+
+
 Privacy and Take Care & 
                     Give Care
 
