@@ -20,7 +20,7 @@ https://fd.nl/ondernemen/1341169/corona-app-dreigt-te-mislukken-door-haast-kabin
 
 There is a problem with technology being limited:
 
-Technology based solely upon DP3T (PEPP-PT) , although we can implement it pretty fast, conceptually has its limits, i.e. the social support is missing, maybe good for phase 1;
+Technology based solely upon DP3T (PEPP-PT) , although we can implement it pretty fast, conceptually has its limits, i.e. the social support is missing, maybe good for a first phase;
 
     Most software known has other limits, either
     
@@ -47,6 +47,8 @@ Technology based solely upon DP3T (PEPP-PT) , although we can implement it prett
         /People do not nescessary trust the government to look after their data.
         
         /People do not trust private companies to look after their data.
+
+
 
 
 So trust your Circle:
