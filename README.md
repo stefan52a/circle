@@ -18,9 +18,9 @@ https://fd.nl/ondernemen/1341169/corona-app-dreigt-te-mislukken-door-haast-kabin
 
 
 
-There is a problem with technology being limited:
+There is a **problem** with technology being limited:
 
-Technology based solely upon DP3T (PEPP-PT) , although we can implement it pretty fast, conceptually has its limits, i.e. the social support is missing, maybe good for a first phase;
+Technology based solely upon [DP3T](https://github.com/DP-3T) (PEPP-PT) , although we can [implement](https://gitlab.com/PrivateTracer) it pretty fast, conceptually has its limits, i.e. the social support is missing, maybe good for a first phase;
 
     Most software known has other limits, either
     
@@ -38,9 +38,11 @@ Technology based solely upon DP3T (PEPP-PT) , although we can implement it prett
     
     Technology based upon Apple/Google only, has its limits:
     
-        Contact Tracing is The Most Amazing And Scariest Technology of The 21st Century! We get this wrong, we are in big trouble .. for our health, our economy, and for our privacy! Please support and build things that help us recovery, but which protect fundamental rights.
+        Contact Tracing is The Most [Amazing And Scariest Technology](https://medium.com/asecuritysite-when-bob-met-alice/contact-tracing-the-most-amazing-and-scariest-technology-of-the-21st-century-9fb86d7869e5) of The 21st Century! We get this wrong, we are
+        in big trouble for our health, our economy, and for our privacy! Please support and build things that help us
+        recovery, but which protect fundamental rights.
         
-        I state three things I’ve learnt from working in health care:
+        I state [three things](https://medium.com/asecuritysite-when-bob-met-alice/the-flawed-world-of-contact-tracing-wheres-carol-the-tester-3939ac92488a) I’ve learnt from working in health care:
         
         /People trust their doctor to look after their data.
         
@@ -58,15 +60,11 @@ Privacy and Take Care &
                     Give Care
 
 
-https://github.com/DP-3T
 
 https://ncase.me/contact-tracing/
-e.g. https://gitlab.com/PrivateTracer for phase 1
 
-Opinion about Google Apple solution: 
 
-https://medium.com/asecuritysite-when-bob-met-alice/contact-tracing-the-most-amazing-and-scariest-technology-of-the-21st-century-9fb86d7869e5
 
-https://medium.com/asecuritysite-when-bob-met-alice/the-flawed-world-of-contact-tracing-wheres-carol-the-tester-3939ac92488a
+
 
 
