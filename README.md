@@ -1,6 +1,6 @@
 # circle
 
-![alt text](https://raw.githubusercontent.com/stefan52a/circle/master/Screenshot from 2020-04-16 18-59-19.png)
+![alt text](https://raw.githubusercontent.com/stefan52a/circle/master/header.png)
 
 Veel zorgen in de samenleving om privacy Corona app. Hoe privacy en zorg voor elkaar samen kunnen gaan
 
