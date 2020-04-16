@@ -12,6 +12,7 @@ http://allai.nl/wetenschappers-en-experts-aan-kabinet-geen-corona-apps-zonder-wa
 en
 https://fd.nl/ondernemen/1341169/corona-app-dreigt-te-mislukken-door-haast-kabinet (pdf versie)
 
+![alt text](https://github.com/stefan52a/circle/blob/master/circle.gif)
 
 Problem: Technology can be limited:
 
