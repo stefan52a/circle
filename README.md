@@ -22,33 +22,32 @@ There is a **problem** with technology being limited:
 
 Technology based solely upon [DP3T](https://github.com/DP-3T) (PEPP-PT) , although we can [implement](https://gitlab.com/PrivateTracer) it pretty fast, conceptually has its limits, i.e. the social support is missing, maybe good for a first phase;
 
-    Most software known has other limits, either
+
+Most software known has other limits, either
     
-        is not Open Source;
+..* is not Open Source;
         
-        does not have Privacy by Design;
+..* does not have Privacy by Design;
         
-        does not have highly Decentralized Storage;
+..* does not have highly Decentralized Storage;
         
-        is not Inclusive or Optional
+..* is not Inclusive or Optional
         
-    Technology based upon only Android or only iOS has its limits;
+Technology based upon only Android or only iOS has its limits;
     
-    Ethical, Social, Fundamental Rights, Legal, Governance etc. limits;
+Ethical, Social, Fundamental Rights, Legal, Governance etc. limits;
     
-    Technology based upon Apple/Google only, has its limits:
+Technology based upon Apple/Google only, has its limits:
     
-        Contact Tracing is The Most [Amazing And Scariest Technology](https://medium.com/asecuritysite-when-bob-met-alice/contact-tracing-the-most-amazing-and-scariest-technology-of-the-21st-century-9fb86d7869e5) of The 21st Century! We get this wrong, we are
-        in big trouble for our health, our economy, and for our privacy! Please support and build things that help us
-        recovery, but which protect fundamental rights.
+..* Contact Tracing is The Most [Amazing And Scariest Technology](https://medium.com/asecuritysite-when-bob-met-alice/contact-tracing-the-most-amazing-and-scariest-technology-of-the-21st-century-9fb86d7869e5) of The 21st Century! We get this wrong, we are in big trouble for our health, our economy, and for our privacy! Please support and build things that help us recovery, but which protect fundamental rights.
         
-        I state [three things](https://medium.com/asecuritysite-when-bob-met-alice/the-flawed-world-of-contact-tracing-wheres-carol-the-tester-3939ac92488a) I’ve learnt from working in health care:
+..* I state [three things](https://medium.com/asecuritysite-when-bob-met-alice/the-flawed-world-of-contact-tracing-wheres-carol-the-tester-3939ac92488a) I’ve learnt from working in health care:
         
-        /People trust their doctor to look after their data.
+    ..* People trust their doctor to look after their data.
         
-        /People do not nescessary trust the government to look after their data.
+    ..* People do not nescessary trust the government to look after their data.
         
-        /People do not trust private companies to look after their data.
+    ..* People do not trust private companies to look after their data.
 
 
 
@@ -62,9 +61,3 @@ Privacy and Take Care &
 
 
 https://ncase.me/contact-tracing/
-
-
-
-
-
-
