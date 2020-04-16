@@ -1,4 +1,7 @@
 # circle
+
+![alt text](https://raw.githubusercontent.com/stefan52a/circle/master/header.png)
+
 Veel zorgen in de samenleving om privacy Corona app. Hoe privacy en zorg voor elkaar samen kunnen gaan
 
 Wij hebben een voorstel ingediend bij VWS dat juist hier sterk in is. De Circle App: geen gegevens uitwisselen met (overheids)instantie, maar binnen een vertrouwde groep elkaar helpen een beschermende kring te vormen rond het virus. Zonder tracking zorgt deelname in de Circle app, met mensen die je vertrouwt, er voor dat binnen de groep vertrouwelijk kan worden gedeeld of iemand positief is getest op covid-19, zodat dit dan ook, binnen overeenstemming met de groep, anoniem gedeeld kan worden met de buitenwereld. Krijgt iemand zo'n melding en is er contact geweest met de anonieme melder, dan kan je risico op infectie worden weergegeven.
