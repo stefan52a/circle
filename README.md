@@ -130,7 +130,7 @@ Most software known has other limits, either
 ..* is not Inclusive or Optional
         
 Technology based upon only Android or only iOS has its limits;
-    
+      
 Ethical, Social, Fundamental Rights, Legal, Governance etc. limits;
     
 Technology based upon Apple/Google only, has its limits:
