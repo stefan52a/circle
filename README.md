@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/stefan52a/circle/blob/master/header.png)
 
-VThe Circle App: no data will be shared with (government) agencies, but within a small trust group (Circle). The people in the group help each other creating a protecting Circle around the Covid-19 virus. Without any tracking, taking part in the Circle app ensures, together with the people you trust, that within the group when there is a chance that somebody is infected with Corona, this can be shared anonymously with the outside world, when the Circle consents. So, the app does not work automatically, and the Circle has control.
+The Circle App: no data will be shared with (government) agencies, but within a small trust group (Circle). The people in the group help each other creating a protecting Circle around the Covid-19 virus. Without any tracking, taking part in the Circle app ensures, together with the people you trust, that within the group when there is a chance that somebody is infected with Corona, this can be shared anonymously with the outside world, when the Circle consents. So, the app does not work automatically, and the Circle has control.
 If somebody gets a notification there was contact with the anonymous notifier, then his risk for infection can be shown and the app, at certain level of probability, gives pointers to advice what to do.
 This way the Circle app will be a responsible example how privacy and inclusive care for each other, can go together.
 
