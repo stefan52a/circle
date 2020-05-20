@@ -9,7 +9,7 @@ This way the Circle app will be a responsible example how privacy and inclusive 
 The secure app gives advice and it helps people to support each other in a Circle (social care). The app conforms to the Dutch expectations around Corona security, privacy and care for each other.
 We like to keep it simple, as minimal features can deliver maximal robustness
 
-![alt text](https://github.com/stefan52a/circle/blob/master/circle.gif)
+![alt text](https://github.com/stefan52a/circle/blob/master/Circle.gif)
 
 We propose this app because we share the concerns of ref 0, in a realistic way:
 We need (ref 1) "A decentralized protocol which does not require the exchange of data with a central authority (such as the DP3T protocol) should be examined".
