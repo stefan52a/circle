@@ -2,8 +2,8 @@
 
 ![alt text](https://github.com/stefan52a/circle/blob/master/header.png)
 
-The Circle App: no data will be shared with (government) agencies, but within a small trust group (Circle). The people in the group help each other creating a protecting Circle around the Covid-19 virus. Without any tracking, taking part in the Circle app ensures, together with the people you trust, that within the group when there is a chance that somebody is infected with Corona, this can be shared anonymously with the outside world, when the Circle consents. So, the app does not work automatically, and the Circle has control.
-If somebody gets a notification there was contact with the anonymous notifier, then his risk for infection can be shown and the app, at certain level of probability, gives pointers to advice what to do.
+The Circle App: no data will be shared with (government) agencies, but within a small trust group (Circle). The people in the group help each other creating a protecting Circle against the Covid-19 virus. Without any tracking, taking part in the Circle app ensures, together with the people you trust, that within the group when there is a chance that somebody is infected with Corona, this can be shared anonymously with the outside world, when the Circle consents. So, the app does not work automatically, and the human Circle has control.
+If somebody (in- or outside the Circle) gets a notification that there was contact with the anonymous notifier, then his riskp, at certain level of probability, for infection can be shown and the app gives pointers on advice what to do.
 This way the Circle app will be a responsible example how privacy and inclusive care for each other, can go together.
 
 The secure app gives advice and it helps people to support each other in a Circle (social care). The app conforms to the Dutch expectations around Corona security, privacy and care for each other.
@@ -87,24 +87,24 @@ Hypothesis Technology is limited: based solely upon DP3T (PEPP-PT), although can
 Objective: make design inclusive, understandable, scalable, see ref 21
 
 ```
-https://www.veiligtegencorona.nl/ by various authors
-http://allai.nl/wp-content/uploads/2020/04/Brief-Minister-President-Rutte-Ministers-De-Jonge-Van-Rijn-Grapperhaus-de-heer-Sijbesma-inzake-COVID-19-tracking-en-tracing-en-gezondheidsapps.pdf  by various authors
-https://3e011b6e-db6c-4135-98e3-678feeac2463.usrfiles.com/ugd/3e011b_451e8a809e53459ca2a46206c2ba7115.pdf by  Stijn van Gils
-https://www.nicovanstraalen.nl/columns/holland-media-combinatie/hoeveel-mensen-kun-kennen/ 
-https://www.pepp-pt.org/
-https://github.com/DP-3T/documents   
-A DP3T alternative: TCN:  https://github.com/TCNCoalition/TCN
-https://www.apple.com/covid19/contacttracing/
-https://medium.com/asecuritysite-when-bob-met-alice/the-flawed-world-of-contact-tracing-wheres-carol-the-tester-3939ac92488a by Prof Bill Buchanan OBE
-https://medium.com/@stefjan_67880/permissionless-blockchain-by-design-d5d0b90255ca by Drs. SPRM Verhagen MBA
-https://library.princeton.edu/special-collections/sites/default/files/Non-Cooperative_Games_Nash.pdf and https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1063129/by John Nash and https://en.wikipedia.org/wiki/Nash_equilibrium
-https://pdfs.semanticscholar.org/7e8d/c5b93a2ff6fcb4a986e89d23add04f9ac27e.pdf by Ahmed Ben Ayed
-Plaatjes uit
-https://covid19-static.cdn-apple.com/applications/covid19/current/static/contact-tracing/pdf/ExposureNotification-FAQv1.1.pdf
-Figma van ito-org
+ref 0: https://www.veiligtegencorona.nl/ by various authors
+ref 1: http://allai.nl/wp-content/uploads/2020/04/Brief-Minister-President-Rutte-Ministers-De-Jonge-Van-Rijn-Grapperhaus-de-heer-Sijbesma-inzake-COVID-19-tracking-en-tracing-en-gezondheidsapps.pdf  by various authors
+ref 2: https://3e011b6e-db6c-4135-98e3-678feeac2463.usrfiles.com/ugd/3e011b_451e8a809e53459ca2a46206c2ba7115.pdf by  Stijn van Gils
+ref 3: https://www.nicovanstraalen.nl/columns/holland-media-combinatie/hoeveel-mensen-kun-kennen/ 
+ref 4: https://www.pepp-pt.org/
+ref 5: https://github.com/DP-3T/documents   
+ref 6: A DP3T alternative: TCN:  https://github.com/TCNCoalition/TCN
+ref 7: https://www.apple.com/covid19/contacttracing/
+ref 8: https://medium.com/asecuritysite-when-bob-met-alice/the-flawed-world-of-contact-tracing-wheres-carol-the-tester-3939ac92488a by Prof Bill Buchanan OBE
+ref 9: https://medium.com/@stefjan_67880/permissionless-blockchain-by-design-d5d0b90255ca by Drs. SPRM Verhagen MBA
+ref 10: https://library.princeton.edu/special-collections/sites/default/files/Non-Cooperative_Games_Nash.pdf and https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1063129/by John Nash and https://en.wikipedia.org/wiki/Nash_equilibrium
+ref 11: https://pdfs.semanticscholar.org/7e8d/c5b93a2ff6fcb4a986e89d23add04f9ac27e.pdf by Ahmed Ben Ayed
+Some more references:
+images from https://covid19-static.cdn-apple.com/applications/covid19/current/static/contact-tracing/pdf/ExposureNotification-FAQv1.1.pdf
+Figma of ito-org
 https://www.dropbox.com/s/m0f2d433krhqffv/3PersonTest%20van%20ITO-ORG.mp4?dl=0
 https://www.dropbox.com/s/b0zjavmsz6v83uq/Peek%202020-05-10%2018-03Figma3.mp4?dl=0
-Artikelen en plaatjes van https://medium.com/asecuritysite-when-bob-met-alice/the-core-of-contact-tracing-app-design-who-owns-your-identity-df971e794d09 etc.
+Articles and images from https://medium.com/asecuritysite-when-bob-met-alice/the-core-of-contact-tracing-app-design-who-owns-your-identity-df971e794d09 etc.
 https://medium.com/asecuritysite-when-bob-met-alice/contact-tracing-the-most-amazing-and-scariest-technology-of-the-21st-century-9fb86d7869e5 by Prof Bill Buchanan OBE
 https://github.com/shankari/covid-19-tracing-projects by https://github.com/shankari
 https://medium.com/@stefjan_67880/the-case-for-a-slim-blockchain-and-where-to-store-personal-data-under-gdpr-37b1a7891717 by Drs. SPRM Verhagen MBA
