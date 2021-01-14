@@ -86,6 +86,7 @@ Objective: Take into account Ethical, Social, Fundamental Rights, Legal & Govern
 Hypothesis Technology is limited: based solely upon DP3T (PEPP-PT), although can implement it pretty fast, conceptually has its limits, i.e. the social support is missing, maybe good for a first phase;
 Objective: make design inclusive, understandable, scalable, see ref 21
 
+```
 https://www.veiligtegencorona.nl/ by various authors
 http://allai.nl/wp-content/uploads/2020/04/Brief-Minister-President-Rutte-Ministers-De-Jonge-Van-Rijn-Grapperhaus-de-heer-Sijbesma-inzake-COVID-19-tracking-en-tracing-en-gezondheidsapps.pdf  by various authors
 https://3e011b6e-db6c-4135-98e3-678feeac2463.usrfiles.com/ugd/3e011b_451e8a809e53459ca2a46206c2ba7115.pdf by  Stijn van Gils
@@ -110,7 +111,7 @@ https://medium.com/@stefjan_67880/the-case-for-a-slim-blockchain-and-where-to-st
 https://ec.europa.eu/health/sites/health/files/ehealth/docs/covid-19_apps_en.pdf by the European Union
 https://docs.google.com/document/d/1uQSPfUnPSJVDse4_mYrjsQdIi83bUZorVJardBPOuo0/edit?usp=sharing by various authors
 Social innovation:  ……
-
+```
 
 
 
