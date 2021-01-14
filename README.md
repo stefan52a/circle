@@ -1,64 +1,64 @@
-# circle
+# Circle
 
-![alt text](https://github.com/stefan52a/circle/blob/master/header.png)
+![alt text](https://github.com/stefan52a/Circle/blob/master/header.png)
 
-The Circle App: no data will be shared with (government) agencies, but within a small trust group (Circle). The people in the group help each other creating a protecting Circle against the Covid-19 virus. Without any tracking, taking part in the Circle app ensures, together with the people you trust, that within the group when there is a chance that somebody is infected with Corona, this can be shared anonymously with the outside world, when the Circle consents. So, the app does not work automatically, and the human Circle has control.
-If somebody (in- or outside the Circle) gets a notification that there was contact with the anonymous notifier, then his riskp, at certain level of probability, for infection can be shown and the app gives pointers on advice what to do.
+The Circle App: only within a small trust group (Circle) data will be shared. No data will be shared with other agencies. The people in the group help each other creating a protecting Circle against the Covid-19 virus. Without any tracking, taking part in the Circle app ensures, together with the people you trust, that within the group, when there is a chance that somebody is infected with Corona, this data can be shared anonymously with the outside world, only if the Circle consents. So, the app does not work automatically, and the human Circle has control.
+If somebody (in- or outside the Circle) gets a notification that there was a contact with the anonymous notifier, then his risk for infection, at certain level of probability, can be shown and the app gives pointers on advice what to do.
 This way the Circle app will be a responsible example how privacy and inclusive care for each other, can go together.
 
-The secure app gives advice and it helps people to support each other in a Circle (social care). The app conforms to the Dutch expectations around Corona security, privacy and care for each other.
+The secure app gives advice and it helps people to support each other in a Circle (social care). The app conforms to the Dutch expectations about Corona security, privacy and care for each other.
 We like to keep it simple, as minimal features can deliver maximal robustness
 
-![alt text](https://github.com/stefan52a/circle/blob/master/Circle.gif)
+![alt text](https://github.com/stefan52a/Circle/blob/master/Circle.gif)
 
 We propose this app because we share the concerns of ref 0, in a realistic way:
 We need (ref 1) "A decentralized protocol which does not require the exchange of data with a central authority (such as the DP3T protocol) should be examined".
 And (ref 2) "without invading privacy... For example, the use of Bluetooth instead of GPS, ... identification numbers that are only stored on the phone, and therefore not on a central server".
 
 
-The basics:
-Every individual has a circle of family/acquaintances/neighbors/colleagues/ etc. around them. 
+## The basics:
+Every individual has a Circle of family/acquaintances/neighbors/colleagues/ etc. around them. 
 People you trust, especially in the context of the common enemy Corona. People you dare to tell that you are infected with COVID-19, and whom you trust to take the responsibility to share that information e.g. with the health authority.
-Suppose you can grow to a maximum of 50 people who all want to fight Covid-19. Such a group has the right size to improve on protection of everyone, inside and outside the circle, against COVID-19 infection, through the app. 
-It is a threat that affects all of us and that will be the motivation to work together in this limited circle. There is a relationship of trust in this responsibility for each other: the key against a global enemy. No other information can be shared with this app. The circle is not too big for privacy and not too small for the responsibility that will actually be carried out.
+Suppose you can grow to a maximum of 50 people who all want to fight Covid-19. Such a group has the right size to improve on protection of everyone, inside and outside the Circle, against COVID-19 infection, through the app. 
+It is a threat that affects all of us and that will be the motivation to work together in this limited Circle. There is a relationship of trust in this responsibility for each other: the key against a global enemy. No other information can be shared with this app. The Circle is not too big for privacy and not too small for the responsibility that will actually be carried out.
 
-How it works:
+## How it works:
 The operation of the app in practice:
 
-Your own phone number/ID will be encrypted with a key of your own for the circle. This key can only be decrypted by the circle's key.
+Your own phone number/ID will be encrypted with a key of your own for the Circle. This key can only be decrypted by the Circle's key.
 
-Every individual within the circle has a secret number of everyone else. Outside the circle, nobody can link a name or person to that number.
+Every individual within the Circle has a secret number of everyone else. Outside the Circle, nobody can link a name or person to that number.
 
-The mobile phone will measure where everyone meets: at what time and at what distance. On everyone's app is registered which secret numbers are encountered (time/distance). These registrations will be shared within your own circle via the app. 
+The mobile phone will measure where everyone meets: at what time and at what distance. Everyone's app registers which secret numbers are encountered (time/distance). These registrations will only be shared within your own Circle via the app. 
 You won't notice anything unless the following happens:
 
-Suppose someone from the group shows symptoms of COVID-19 infection and goes (if possible anonymously) to the doctor or hospital, then, in case of a positive test, the appointment is that he/she or another member of the group presses a test (joint appointment for the fight against corona). This test will inform each app user by means of a push message that this number is infected. And also everyone within the circle can see if he/she or another member of the circle has been in contact with the infected person (where/when and without knowing who the infected person is). If an encounter has taken place then, taking into account the incubation period, etc., it could be calculated how likely infection could have occurred.  
-The circle members then receive this information from the app, and can then see what the best measures are. For example: paying extra attention to symptoms, self-isolation, contacting a GP, etc.
+Suppose someone from the group shows symptoms of COVID-19 infection and goes (if possible anonymously) to the doctor or hospital, then, in case of a positive test, the agreement is that he/she or another member of the group presses a button (joint effort for the fight against corona). This buttonpress will inform each app user in- and outside the Circle by a message that this number is infected (where/when and without knowing who the infected person is). And also everyone within the Circle can see if he/she or another member wihtin the Circle has been in contact with the infected person. If an encounter has taken place then, taking into account the incubation period, etc., it could be calculated how likely infection could have occurred.  
+The Circle members then receive this information (of a person within their Circle) from the app, and can then see what the best measures are. For example: paying extra attention to symptoms, self-isolation, contacting a GP, etc.
 
-In addition, the circle in which you participate has the responsibility to pass on the secret number of the corona-infected person in question to all circles via a button. The local GGD or any other authority authorized to do so could request information from an individual if he or she so permits.
-Only the circle knows the combination of name and secret number. Someone outside that circle who has been in contact (place/time/distance) with the infected person receives the information that this took place and can, therefore, take measures for himself/herself and his/her own environment.
-This person(s) cannot trace the connection between the notification and the infected person in question. Only the circle knows the connection, but that circle is a maximum of 50.
+In addition, the Circle in which you participate has the responsibility to pass on the secret number of the corona-infected person in question to all Circles via a button. The local GGD or any other authority authorized to do so could request information from an individual if he or she so permits.
+Only the Circle knows the combination of name and secret number. Someone outside that Circle who has been in contact (place/time/distance) with the infected person receives the information that this took place and can, therefore, take measures for himself/herself and his/her own environment.
+This person(s) cannot trace the connection between the notification and the infected person in question. Only the Circle knows the connection, but that Circle is a maximum of 50.
 
 The principle closely resembles that of a solidarity system such as a bread fund or mutual health insurance, where you share the responsibility to support each other in case of illness, and where the degree of fraud is very low because of the mutual involvement. Given the impact this crisis has had on solidarity and helpfulness with each other so far, we believe that this principle can also work for the app, and then hopefully be implemented in other crises.
 
 In this way, trust in - and a sense of responsibility towards - one another, while maintaining privacy, is guaranteed as far as possible, among other things.
 Technically:
 
-Then every (person from a) circle receiving that push message would be able to see if and who within his own circle has been in contact with infected person X (without knowing who that is), where, and when and at what distance. 
+Then every (person from a) Circle receiving that push message would be able to see if and who within his own Circle has been in contact with infected person X (without knowing who that is), where, and when and at what distance. 
 
 Our voluntarily usable open source app and consensus backend ensure privacy at a minimum according to AVG standard.
 
 Data on contacts, locations, and time remain on the user's smartphone. The anonymous identifiers of third parties are stored on users' phones. From this identifier, the identity of third parties cannot be traced.
 In case of contamination, only the anonymous identifier of the user is published with the consent of the user. This will alert third parties without revealing the identity of the source.
-Outside the limited circle and the frequent random identification, the processed data cannot be traced back to individuals or deanonymized. Data within the app/circuit are stored for as long as they are relevant for source and contact detection.
+Outside the limited Circle and the frequent random identification, the processed data cannot be traced back to individuals or deanonymized. Data within the app/circuit are stored for as long as they are relevant for source and contact detection.
 
-Optionally, a user can mitigate privacy and spread responsibility through a self-composed circle (Circle) of people; a Circle of people who support each other in case infection occurs within the Circle and thereby bear and increase solidarity.
+Optionally, a user can mitigate privacy and spread responsibility through a self-composed Circle (Circle) of people; a Circle of people who support each other in case infection occurs within the Circle and thereby bear and increase solidarity.
 Each Circle can never be larger than 50 people, maintained by consensus (the blockchain). Every individual can always withdraw completely (including his data) from the Circle.
 
 For privacy and information security, we use cryptographic common and open standards, such as elliptic curve private/public keys, blockchain immutability, secure transfer protocols, and confidential range proofs.
 Our app is based on apps researched for usability, privacy, information security, technology, content, and operation.
 
-Via opt-in, data can be shared outside the app/ circle with for example GGD and with HMAC salts can be destroyed by the individual remotely. The GGD's can potentially with differential privacy (Hashing, Subsampling, and Noise Injection) still have (also statistical) information.
+Via opt-in, data can be shared outside the app/ Circle with for example GGD and with HMAC salts can be destroyed by the individual remotely. The GGD's can potentially with differential privacy (Hashing, Subsampling, and Noise Injection) still have (also statistical) information.
 False positives due to accidental reporting are partly reduced by the Circle of Confidants of the users who have insight into the state of the users in their Circle.
 False positives, by the Covid-19 test itself, will be minimized by a probability check with - of course - limited historical contact history. 
 
