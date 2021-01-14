@@ -39,6 +39,8 @@ In addition, the Circle in which you participate has the responsibility to pass 
 Only the Circle knows the combination of name and secret number. Someone outside that Circle who has been in contact (place/time/distance) with the infected person receives the information that this took place and can, therefore, take measures for himself/herself and his/her own environment.
 This person(s) cannot trace the connection between the notification and the infected person in question. Only the Circle knows the connection, but that Circle is a maximum of 50.
 
+## Some background
+
 The principle closely resembles that of a solidarity system such as a bread fund or mutual health insurance, where you share the responsibility to support each other in case of illness, and where the degree of fraud is very low because of the mutual involvement. Given the impact this crisis has had on solidarity and helpfulness with each other so far, we believe that this principle can also work for the app, and then hopefully be implemented in other crises.
 
 In this way, trust in - and a sense of responsibility towards - one another, while maintaining privacy, is guaranteed as far as possible, among other things.
@@ -46,7 +48,7 @@ Technically:
 
 Then every (person from a) Circle receiving that push message would be able to see if and who within his own Circle has been in contact with infected person X (without knowing who that is), where, and when and at what distance. 
 
-Our voluntarily usable open source app and consensus backend ensure privacy at a minimum according to AVG standard.
+Our voluntarily usable open source app and consensus backend ensure privacy at a minimum according to GDPR standard.
 
 Data on contacts, locations, and time remain on the user's smartphone. The anonymous identifiers of third parties are stored on users' phones. From this identifier, the identity of third parties cannot be traced.
 In case of contamination, only the anonymous identifier of the user is published with the consent of the user. This will alert third parties without revealing the identity of the source.
